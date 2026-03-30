@@ -15,7 +15,7 @@ MY_LAT = 22.944101
 MY_LONG = 88.433502
 API_KEY = os.environ.get("OWM_API_KEY")
 ACCOUNT_SID = os.environ.get("OWM_ACCOUNT_SID")
-AUTH_TOKEN = os.enviorn.get("AUTH_TOKEN")
+AUTH_TOKEN = os.environ.get("AUTH_TOKEN")
 TWILIO_PHONE_NUMBER = os.environ.get("TWILIO_PHONE_NUMBER")
 SEND_TO_PHONE_NUMBER = os.environ.get("TO_PHONE_NUMBER")
 
